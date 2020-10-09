@@ -19,14 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db3b9f65-6446-4c03-a963-5068297dc95b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01/01.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo01/01.html" afterDir="false" />
-    </list>
+    <list default="true" id="db3b9f65-6446-4c03-a963-5068297dc95b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +41,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="E:/代码资料/vue/vueDemo" />
@@ -54,7 +59,7 @@
       <workItem from="1602210979109" duration="4000" />
       <workItem from="1602210990333" duration="11000" />
       <workItem from="1602221843261" duration="5000" />
-      <workItem from="1602221854873" duration="718000" />
+      <workItem from="1602221854873" duration="1041000" />
     </task>
     <servers />
   </component>
